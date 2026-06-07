@@ -4,4 +4,4 @@ console.log(pregunta);
 console.log("Resposta: " + resposta); 
  
 const dificultat = "facil"; 
-console.log("Dificultat: " + dificultat); 
+console.log("Dificultat: " + dificultat);
